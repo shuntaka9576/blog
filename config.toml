@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "h0z1Blog"
 SectionPagesMenu = "main"
 enableGitInfo = true
+theme= "capsule"
