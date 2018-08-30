@@ -1,4 +1,4 @@
-baseURL = "http://blog.hozi.tech"
+baseURL = "http://blog.hozi.tech/"
 languageCode = "en-us"
 title = "h0z1Blog"
 SectionPagesMenu = "main"
