@@ -1,4 +1,5 @@
 baseURL = "http://blog.hozi.tech/"
-languageCode = "ja-jp"
+languageCode = "en-us"
 title = "h0z1Blog"
 SectionPagesMenu = "main"
+enableGitInfo = true
