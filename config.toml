@@ -1,3 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "h0z1Blog"
+SectionPagesMenu = "main"
+enableGitInfo = true
+
+[params]
+  repo = "https://github.com/shuntaka9576"
