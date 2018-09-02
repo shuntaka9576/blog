@@ -1,6 +1,7 @@
-baseURL = "http://blog.hozi.tech/"
+baseURL = "https://blog.hozi.tech/"
 languageCode = "en-us"
 title = "h0z1Blog"
 SectionPagesMenu = "main"
 enableGitInfo = true
 theme= "capsule"
+pygmentsCodefences = true # ```で囲んだコードをハイライトする設定
