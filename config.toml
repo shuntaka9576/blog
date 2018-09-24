@@ -5,3 +5,4 @@ SectionPagesMenu = "main"
 enableGitInfo = true
 theme= "capsule"
 pygmentsCodefences = true # ```で囲んだコードをハイライトする設定
+enableEmoji = true
