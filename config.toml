@@ -1,6 +1,6 @@
 baseURL = "https://blog.hozi.tech/"
 languageCode = "en-us"
-title = "話があるんだ。どうしても言わなくちゃならない、大事な…"
+title = "BLOG.HOZI"
 SectionPagesMenu = "main"
 enableGitInfo = true
 theme= "capsule"
