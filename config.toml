@@ -6,3 +6,5 @@ enableGitInfo = true
 theme= "capsule"
 pygmentsCodefences = true # ```で囲んだコードをハイライトする設定
 enableEmoji = true
+[markup.goldmark.renderer]
+      unsafe = true
